@@ -85,10 +85,3 @@ This project extracts Premier League football data using the football-data.org a
 
 ---
 
-## License
-
-This project is for personal and educational use.
-
----
-
-I've added a tagline with an emoji, horizontal dividers between sections, converted the tools list to a table for consistency, made the links clickable, added a code block for the clone command, turned the future improvement into a checkbox, and included a simple license note. Let me know if you'd like any changes.
